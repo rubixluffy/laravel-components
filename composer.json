@@ -1,0 +1,16 @@
+{
+    "name": "dada/laravel-components",
+    "description": "Components for Laravel or Lumen",
+    "keywords": ["form", "request", "lumen"],
+    "license": "MIT",
+    "type": "library",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dada\\Laravel\\": "src/"
+        }
+    }
+}
+
