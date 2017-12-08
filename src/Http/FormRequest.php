@@ -1,5 +1,5 @@
 <?php
-namespace Dada\Laravel\Http;
+namespace Dadaabc\Laravel\Http;
 
 use Illuminate\Http\Request;
 use Illuminate\Http\JsonResponse;

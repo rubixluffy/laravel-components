@@ -1,5 +1,5 @@
 {
-    "name": "dada/laravel-components",
+    "name": "dadaabc/laravel-components",
     "description": "Components for Laravel or Lumen",
     "keywords": ["form", "request", "lumen"],
     "license": "MIT",
@@ -9,7 +9,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Dada\\Laravel\\": "src/"
+            "Dadaabc\\Laravel\\": "src/"
         }
     }
 }

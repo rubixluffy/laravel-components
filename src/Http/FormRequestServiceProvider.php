@@ -1,5 +1,5 @@
 <?php
-namespace Dada\Laravel\Http;
+namespace Dadaabc\Laravel\Http;
 
 use Laravel\Lumen\Http\Redirector;
 use Illuminate\Support\ServiceProvider;
